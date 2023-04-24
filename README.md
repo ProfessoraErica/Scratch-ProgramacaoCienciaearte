@@ -1,4 +1,4 @@
-# Scratch-ProgramacaoCienciaearte
+# Introdução Java Script
 
 Equipe: 8º ano A EHAF
 
