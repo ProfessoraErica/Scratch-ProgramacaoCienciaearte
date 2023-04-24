@@ -1,5 +1,5 @@
 # Introdução Java Script
 
-Equipe: 8º ano A EHAF
+Equipe: 1ª série A
 
 Professora: Érica Isabel da Silva
