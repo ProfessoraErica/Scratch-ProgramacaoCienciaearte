@@ -1,4 +1,4 @@
-# Introdução Java Script
+# Scratch-ProgramacaoCienciaearte
 
 Equipe: 1ª série A
 
